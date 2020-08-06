@@ -19,8 +19,8 @@ class PiggyBank {
     return false
    }
 
-   break() {
-     return this.countCoins();
-   }
+  break() {
+    return this.countCoins();
+  }
 
 }
